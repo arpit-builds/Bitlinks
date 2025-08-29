@@ -2,6 +2,9 @@
 
 BitLinks is a simple, fast, and free URL shortener built with Next.js and MongoDB. No authentication is required—just shorten your URLs instantly and enjoy a clean, privacy-friendly experience.
 
+## Project video
+https://github.com/user-attachments/assets/25d23102-6066-43bb-8412-4d842a3233a4
+
 ## Features
 - Shorten any URL in seconds
 - No sign-up or login required
@@ -59,10 +62,4 @@ BitLinks is a simple, fast, and free URL shortener built with Next.js and MongoD
 - `/lib` — Server-side and database utilities
 - `/public` — Static assets
 
-## License
-
-MIT License
-
 ---
-
-Feel free to contribute or check out the [GitHub repository](<your-repo-url>).
